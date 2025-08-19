@@ -5,8 +5,10 @@ This project is to attempt to make searching for articles with a specific topic 
 1 API will be used installed VIA pip:
 - News API at newsapi.org
 
-1 library installed VIA pip:
+2 libraries installed VIA pip:
 - YAKE (Yet Another Keyword Extractor) library at https://github.com/LIAAD/yake
+- BeautifulSoup library at https://pypi.org/project/beautifulsoup4/
+
 
 
 Source Code will be written and compiled in Python.
